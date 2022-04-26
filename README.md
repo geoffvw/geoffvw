@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geoffvw
 - 👀 I’m interested in datascience, intellectual property, and all things Star Wars
 - 🌱 I’m currently learning datascience
-- 💞️ I’m looking to collaborate on a datascience project related to the legal topic of fair use
+- 🤝🏽 I’m looking to collaborate on a datascience project related to the legal topic of fair use 
 - 📫 How to reach me - geoffw@berkeley.edu
 
 <!---
